@@ -1,0 +1,5 @@
+java.runtime.minecraft.installer=(-C:\Users\declan.murphy0002\Downloads\MinecraftInstaller.exe-)
+minecraft.client.launcher.installer.directory= C:\Users\declan.murphy0002\Downloads\MinecraftInstaller.exe
+installer.directory=(C:\Users\declan.murphy0002\Downloads\MinecraftInstaller.exe)
+{
+end of file

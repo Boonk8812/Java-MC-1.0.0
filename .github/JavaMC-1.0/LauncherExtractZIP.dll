@@ -1,0 +1,7 @@
+echo Running JavaMC 1.0.0
+echo Extracting javaMCterminal.zip
+extract.file: javaMCterminal.zip
+{
+class Program
+echo Finished Extracting javaMC.zip
+class RUN 
